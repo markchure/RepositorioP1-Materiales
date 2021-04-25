@@ -6,7 +6,7 @@
 * Prácticos en PDF - https://drive.google.com/file/d/107P2WQp3yhd1y9NUN3vXKctGuYn7amsH/view?usp=sharing
 
 ## Sugerencias
-Pueden dejar las sugerencias o recomendaciones en el siguiente formulario: [https://forms.gle/eiVJxZQ4RcSHGWNa7](URL "Formulario de sugerencias")
+Pueden dejar las sugerencias o recomendaciones en el siguiente formulario: https://forms.gle/eiVJxZQ4RcSHGWNa7
 
 ## Presentaciones y materiales varios por semana
 
