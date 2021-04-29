@@ -8,6 +8,12 @@
 ## Sugerencias
 Pueden dejar las sugerencias o recomendaciones en el siguiente formulario: https://forms.gle/eiVJxZQ4RcSHGWNa7
 
+## Herramientas
+* Descargar Notepad++ (Solo para windows) - https://notepad-plus-plus.org/downloads/
+* Agregar Lauch in Chrome al Notepad++ - https://docs.google.com/document/d/14gHxvaykMH7KfA3qfJdEf99dW6WLArcQq9Q6XR0POas/edit?usp=sharing 
+* Agregar el Plugin Indent By Fold - https://docs.google.com/document/d/1R2bhjxn6DuVpAP7lFLV9Em78i4yjsIT5Ivq6lZ4-xIM/edit?usp=sharing
+* Descargar Visual Studio Code - https://code.visualstudio.com/download
+
 ## Presentaciones y materiales varios por semana
 
 **Semana 06**
