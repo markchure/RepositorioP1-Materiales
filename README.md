@@ -13,6 +13,7 @@ Pueden dejar las sugerencias o recomendaciones en el siguiente formulario: https
 **Semana 06**
 * Slides S6 - https://docs.google.com/presentation/d/1FVIFglo0ynTzPDBpwKWoO_ZxrxejhDD4AZEMLLFPmJc/edit?usp=sharing
 * Ejercicios adicionales S6 - https://docs.google.com/document/d/1KCcUeMX8LHFeHgQKScxLIRld0D9t4fLKHrvyRil9ac8/edit?usp=sharing
+* Documento: Funciones en JS - https://docs.google.com/document/d/1QzQcm9SQdPt2CfLkQqLN6T7DsCDC02NUAWqGbHO1-OE/edit?usp=sharing 
 
 **Semana 05**
 * Slides S5 - https://docs.google.com/presentation/d/1hpEQxw8Ot8gsWX_oUQlG23qc0CokbGB5hKc2ToR5Qts/edit?usp=sharing
